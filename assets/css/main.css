@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background: #072C3E;
+    background: #7f0a0a;
 }
 
 .btn-area {
@@ -113,12 +113,12 @@ ul {
 /* step */
 
 .cardf {
-    padding: 80px 120px 50px 120px;
+    padding: 0px 80px 70px 80px;
 }
 
 .btn-rules {
-    width: 234px;
-    margin-top: 30px;
+    width: 794px;
+    margin-top: 60px;
 }
 
 .btn-rules:hover {
@@ -219,7 +219,7 @@ ul {
         padding: 0 0 30px 0;
     }
     .btn-rules {
-        width: 150px;
+        width: 80%;
         margin-top: 30px;
     }
     .btn2 {
@@ -272,11 +272,45 @@ ul {
         display: none;
     }
     .title {
-        padding-left: 35%;
-        padding-right: 35%;
+        padding-left: 25%;
+        padding-right: 25%;
     }
     .abc {
         padding-left: 20%;
         padding-right: 20%;
     }
+}
+
+
+/* list*/
+
+.list-title {
+    font-size: x-large;
+    color: #fff;
+    border-radius: 10px;
+    background-color: rgb(29, 78, 111);
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.list {
+    color: #000
+}
+
+.list h1 {
+    color: #fff;
+    font-weight: 800;
+    margin: 50px auto;
+}
+
+.bg {
+    background-color: #FFF3F8;
+    padding: 10px;
+    margin-bottom: 33px;
+    border-radius: 10px;
+}
+
+.c {
+    display: flex;
+    justify-content: center;
 }
